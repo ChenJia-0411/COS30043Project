@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Air Runner X",      "image": "image/shoe1.png",  "price": 120, "category": "Men" },
+  { "id": 2, "name": "Flex Sneaker",      "image": "image/shoe2.png",  "price": 89,  "category": "Women" },
+  { "id": 3, "name": "Ultra Boost",       "image": "image/shoe3.png",  "price": 150, "category": "Men" },
+  { "id": 4, "name": "Trail Runner",      "image": "image/shoe4.jpg",  "price": 110, "category": "Sports" },
+  { "id": 5, "name": "Street Glide",      "image": "image/shoe5.jpg",  "price": 95,  "category": "Women" },
+  { "id": 6, "name": "ComfyWalk 360",     "image": "image/shoe6.jpg",  "price": 80,  "category": "Men" },
+  { "id": 7, "name": "Sky High",          "image": "image/shoe7.jpg",  "price": 135, "category": "Men" },
+  { "id": 8, "name": "Rapid Trail",       "image": "image/shoe8.jpg",  "price": 105, "category": "Sports" },
+  { "id": 9, "name": "ZeroGravity",       "image": "image/shoe9.jpg",  "price": 200, "category": "Men" },
+  { "id": 10,"name": "Luna Comfort",      "image": "image/shoe10.jpg", "price": 88,  "category": "Women" },
+  { "id": 11,"name": "Dash Pro",          "image": "image/shoe11.jpg", "price": 130, "category": "Sports" },
+  { "id": 12,"name": "Night Walker",      "image": "image/shoe12.jpg", "price": 99,  "category": "Men" },
+  { "id": 13,"name": "Sunset Breeze",     "image": "image/shoe13.jpg", "price": 92,  "category": "Women" },
+  { "id": 14,"name": "Speedster",         "image": "image/shoe14.png", "price": 140, "category": "Sports" },
+  { "id": 15,"name": "Blitz X",           "image": "image/shoe15.jpg", "price": 115, "category": "Men" },
+  { "id": 16,"name": "Feather Glide",     "image": "image/shoe16.jpg", "price": 98,  "category": "Women" },
+  { "id": 17,"name": "Storm Runner",      "image": "image/shoe17.jpg", "price": 125, "category": "Sports" },
+  { "id": 18,"name": "Velvet Pace",       "image": "image/shoe18.jpg", "price": 90,  "category": "Women" },
+  { "id": 19,"name": "Titan Sprint",      "image": "image/shoe19.jpg", "price": 160, "category": "Men" },
+  { "id": 20,"name": "Echo Flyknit",      "image": "image/shoe20.jpg", "price": 108, "category": "Sports" }
+]
