@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'db.php'; // This will auto-create DB + tables if missing
+//require_once 'db.php'; // This will auto-create DB + tables if missing
 ?>
 
 
